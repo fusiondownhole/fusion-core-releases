@@ -1,9 +1,9 @@
 {
     "product":  "Fusion Core Suite",
-    "version":  "1.14.3",
+    "version":  "1.14.4",
     "build_label":  "Build:07MAY26",
     "installer":  "FusionCoreSetup.exe",
-    "sha256":  "67C56483DFC2458BC246860F4E5FB9FDA8FCB720FFF5A00E8F3CB6CF24BB5872",
-    "source_file":  "Fusion Core Suite v1.14.3.exe",
+    "sha256":  "B68E2C4EFB8BF438B401366A28B10A1F48DDB8305DCC261299612CC594AE4CF2",
+    "source_file":  "Fusion Core Suite v1.14.4.exe",
     "published_date":  "2026-05-07"
 }
